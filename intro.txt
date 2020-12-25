@@ -1,0 +1,18 @@
+### liner data structure###\
+Array,
+Linked list,
+Stack,
+Queue,
+Matrix.
+
+
+###non liner data structure###
+Binary Tree,
+Heap,
+Hash Table,
+Graph.
+
+###Python specific data structure###
+List,
+Tuple,
+Dictionary.
